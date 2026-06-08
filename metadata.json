@@ -1,0 +1,6 @@
+{
+  "name": "AI Automation Hub",
+  "description": "An interactive control room, simulation playground, and visual dashboard for the local AI Facebook Page Manager, Voice-to-Tasks Calendar, and Meta Canva Sync tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
